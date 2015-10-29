@@ -5,7 +5,7 @@
     "keywords": ["contenttools", "yii2", "extension", "widget", "editor", "wysiwyg"],
     "license": "Apache-2.0",
     "support": {
-        "source": "https://github.com/bizley-code/yii2-content-tools"
+        "source": "https://github.com/dkhru/yii2-content-tools"
     },
     "authors": [
         {
