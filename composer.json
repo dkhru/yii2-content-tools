@@ -1,5 +1,5 @@
 {
-    "name": "bizley/contenttools",
+    "name": "dkhru/contenttools",
     "type": "yii2-extension",
     "description": "ContentTools editor implementation for Yii 2.",
     "keywords": ["contenttools", "yii2", "extension", "widget", "editor", "wysiwyg"],
@@ -11,6 +11,10 @@
         {
             "name": "Pawel Bizley Brzozowski",
             "email": "pb@human-device.com"
+        }
+        {
+            "name": "Dmitriy Khristianov",
+            "email": "support@dkh.ru"
         }
     ],
     "require": {
